@@ -10,7 +10,7 @@ git clone https://github.com/523451928/vue-music.git
 
 安装依赖
 ```bash
-cd 到项目问佳佳
+cd 到项目文件夹
 npm install
 ```
 测试demo页
